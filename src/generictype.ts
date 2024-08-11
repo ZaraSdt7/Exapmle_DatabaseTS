@@ -20,3 +20,4 @@ const Eployee:User = {
     age:8
 }
 console.log(mainuser(Eployee,["name","id"]));
+
